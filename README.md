@@ -29,12 +29,8 @@ dataset/test/Identity_1/pictures
 video data:
 
       
-# Train Model Used
+# Trained Model Used
 
 FaceNet model trained by Hiroki Taniai on MS-Celeb-1M dataset
 
 https://github.com/nyoki-mtl/keras-facenet
-
-# References
-
-[1] https://machinelearningmastery.com/how-to-perform-face-recognition-with-vggface2-convolutional-neural-network-in-keras/
