@@ -1,2 +1,2 @@
-# faceRecognition
+# Face Recognition
 Face Recognition
