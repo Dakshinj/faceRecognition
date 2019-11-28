@@ -26,8 +26,6 @@ dataset/train/identity_1/pictures
 Test data:
 dataset/test/Identity_1/pictures
 
-video data:
-
       
 # Trained Model Used
 
