@@ -21,13 +21,8 @@ https://www.kaggle.com/danupnelson/14-celebrity-faces-dataset
 # Directory Structure
 
 Train data:
-Dataset
-    Train
-        identity_1
-            pictures
+Dataset/Train/identity_1/pictures
+
 Test data:
-dataset
-    Test
-      identity_1
-            pictures
+dataset/Test/Identity_1/pictures
       
