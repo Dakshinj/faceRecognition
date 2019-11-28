@@ -17,3 +17,17 @@ Allow the input to propagate forward and taking the output from specific layer
 14 celebrity with 3 more identities
 
 https://www.kaggle.com/danupnelson/14-celebrity-faces-dataset
+
+# Directory Structure
+
+Train data:
+Dataset
+    Train
+        identity_1
+            pictures
+Test data:
+dataset
+    Test
+      identity_1
+            pictures
+      
