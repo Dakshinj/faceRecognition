@@ -11,3 +11,9 @@ Fine tuning - Replace a trained neural network’s fully connected layer head an
 
 Feature extraction (best suited for face recognition) - Pre-trained neural network serves as a feature extractor.
 Allow the input to propagate forward and taking the output from specific layer
+
+# Dataset Used
+
+14 celebrity with 3 more identities
+
+https://www.kaggle.com/danupnelson/14-celebrity-faces-dataset
