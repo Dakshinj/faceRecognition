@@ -26,3 +26,8 @@ Dataset/Train/identity_1/pictures
 Test data:
 dataset/Test/Identity_1/pictures
       
+# Train Model Used
+
+FaceNet model trained by Hiroki Taniai on MS-Celeb-1M dataset
+
+https://github.com/nyoki-mtl/keras-facenet
